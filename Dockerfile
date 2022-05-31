@@ -1,5 +1,5 @@
 # NAME: dclong/golang
-FROM dclong/base
+FROM dclong/python
 # GIT: https://github.com/legendu-net/docker-base.git
 
 RUN xinstall golang -i 
